@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="NJIT AFS">
+    <serverData>
+      <paths name="NJIT AFS">
+        <serverdata>
+          <mappings>
+            <mapping deploy="Isfinalproject4" local="$PROJECT_DIR$/../Isfinalproject4" web="/Isfinalproject4" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
